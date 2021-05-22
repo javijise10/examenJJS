@@ -4,6 +4,10 @@ package clases;
  * 
  * @author javier
  */
+/**
+ * ESTA ES UNA PRUEBA DEL FICHERO CONTINENTE
+ * @author IES TRASSIERRA
+ */
 public class Continente {
 
     int idContinente;
