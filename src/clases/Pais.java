@@ -14,6 +14,13 @@ public class Pais {
     String nombrePais;
     BigInteger numHabitantes;
 
+    /**
+     * 
+     * @param idPais
+     * @param idContinente
+     * @param nombrePais
+     * @param numHabitantes 
+     */
     public Pais(int idPais, int idContinente, String nombrePais, BigInteger numHabitantes) {
         this.idPais = idPais;
         this.idContinente = idContinente;
